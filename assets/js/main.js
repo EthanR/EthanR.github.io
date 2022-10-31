@@ -184,7 +184,7 @@
         }
 
         /* ---------------------------------------------- /*
-         * Navbar hover dropdown on desctop
+         * Navbar hover dropdown on desktop
          /* ---------------------------------------------- */
 
         function hoverDropdown(width, mobileTest) {
