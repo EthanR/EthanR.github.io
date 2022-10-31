@@ -40,7 +40,7 @@ iframe {
   right: auto !important;
 }
 
-/* Transition elsements */
+/* Transition elements */
 a,
 .btn {
   transition: all 0.125s ease-in-out 0s;
@@ -1939,7 +1939,7 @@ Google map
   background: rgba(255, 255, 255, 0.8);
 }
 
-/* Work item gradien background*/
+/* Work item gradient background */
 .works-grid.works-hover-g .work-image:after {
   opacity: 0;
 }
@@ -2697,6 +2697,7 @@ Google map
     left: auto;
     right: 0;
   }
+	
   /* Comments */
   .comment .comment {
     margin-right: 75px;
