@@ -40,7 +40,7 @@ iframe {
   left: auto !important;
 }
 
-/* Transition elsements */
+/* Transition elements */
 a,
 .btn {
   transition: all 0.125s ease-in-out 0s;
@@ -1939,7 +1939,7 @@ Google map
   background: rgba(255, 255, 255, 0.8);
 }
 
-/* Work item gradien background*/
+/* Work item gradient background*/
 .works-grid.works-hover-g .work-image:after {
   opacity: 0;
 }
@@ -2319,7 +2319,7 @@ Google map
   max-width: 36px;
 }
 
-/* Sidebar / Widget common*/
+/* Sidebar / Widget common */
 .sidebar .widget {
   margin-bottom: 60px;
 }
